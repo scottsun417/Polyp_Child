@@ -11,3 +11,5 @@ I think you’ll like this item from figshare : CP-CHILD, a three-class colon po
 To access the item, go to https://doi.org/10.6084/m9.figshare.13159811.v1
         
 Enjoy!
+
+Kvasir-SEG: https://paperswithcode.com/dataset/kvasir-seg
